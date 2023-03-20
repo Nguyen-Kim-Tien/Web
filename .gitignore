@@ -1,0 +1,4 @@
+/vendor/
+/public/images/news/
+.env
+.env.example
